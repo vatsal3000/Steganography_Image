@@ -4,6 +4,9 @@ This project implements Image Steganography, a technique used to hide secret mes
 
 Features
 ✅ Encrypt messages into images securely.
+
 ✅ Decrypt hidden messages from encrypted images.
+
 ✅ Simple GUI-based application for easy usage.
+
 ✅ Supports JPG, PNG, and JPEG images.
